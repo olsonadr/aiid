@@ -22,7 +22,7 @@ The steps for contributing changes are the following,
 1. Create a fork of the repository.
 2. Open a feature branch from whichever branch you would like to change, `git checkout -b feature-cool-new-thing`.
 3. Make your changes, commit them, then push them remote.
-4. Open a pull request to the `master` branch.
+4. Open a pull request to the `staging` branch.
 5. Update the pull request based on the review.
 6. See the pull request get pulled. :)
 
